@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+    <Binaries>
+        <Binary id="main_83" path="C:\Program Files\1cv8\8.3.9.2170\bin"/>
+    </Binaries>
+    <WebApplications>
+        <WebApplication id="testRemoteControl" binary="main_83">
+            <!-- <Site>Default Web Site</Site> -->
+            <!-- <ApplicationPool>1C Enterprise 8.3 Main Pool</ApplicationPool> -->
+        </WebApplication>
+    </WebApplications>
+</Configuration>
