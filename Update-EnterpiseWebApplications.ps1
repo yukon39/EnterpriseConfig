@@ -33,6 +33,7 @@ Update-EnterpiseWebApplications -SetISAPIHandler Application
 https://technet.microsoft.com/en-us/library/ee790599.aspx
 
 Автор: Гончарук Юрий <yukon39@gmail.com>
+Источник: https://github.com/yukon39/EnterpriseConfig
 #>
 
 #region CmdletBinding
